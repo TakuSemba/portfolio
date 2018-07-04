@@ -4,7 +4,6 @@ date: 2018-07-04T21:35:55+09:00
 draft: true
 ---
 
-
 <form id="contactform" method="post" action="https://formspree.io/insert.your@mail.adress">
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Name"/>
