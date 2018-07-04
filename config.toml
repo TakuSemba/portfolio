@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 [params]
   description = '<!--[--><h3>I Love Internet. Im a Android developer.</h3><!--]-->'
-  logo = "fa-diamond"
+  logo = "fa-code"
 
 [[params.social]]
   medium = "twitter"

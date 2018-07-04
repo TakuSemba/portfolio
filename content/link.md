@@ -4,7 +4,9 @@ date: 2018-07-05T01:06:39+09:00
 draft: true
 ---
 
-<h3 class="major">Articles</h3>
+{{< figure class="image main" src="/images/pic02.jpg" >}}
+
+## Articles
 
 ### [Medium](https://medium.com/@takusemba)
 
@@ -14,7 +16,7 @@ draft: true
 
 <p class="and_more">and more...</p>
 
-<h3 class="major">Slides</h3>
+## Slides
 
 ### [Speakerdeck](https://speakerdeck.com/takusemba)
 

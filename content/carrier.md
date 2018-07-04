@@ -4,8 +4,9 @@ date: 2018-07-05T00:29:53+09:00
 draft: true
 ---
 
+{{< figure class="image main" src="/images/pic01.jpg" >}}
 
-<h3 class="major">Educational Background</h3>
+### Educational Background
 
 <div class="table-wrapper">
 	<table>
@@ -32,7 +33,7 @@ draft: true
 </div>
 
 
-<h3 class="major">Employment Experience</h3>
+### Employment Experience
 
 <div class="table-wrapper">
 	<table>
