@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://takusemba.com/sitemap.xml
+Sitemap: https://s3-ap-northeast-1.amazonaws.com/takusemba.com/sitemap.xml
