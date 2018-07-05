@@ -6,9 +6,9 @@ draft: true
 
 # Android Apps
 
-## AbemaTV
+## [AbemaTV](https://play.google.com/store/apps/details?id=tv.abema&hl=ja)
 
-{{< figure class="image main" src="/images/app_abema_tv.png" >}}
+{{< figure class="image main" src="/images/app_abema_tv.png" link="https://play.google.com/store/apps/details?id=tv.abema&hl=ja" >}}
 
 AbemaTV, Inc., established through a joint investment by CyberAgent, Inc. (Tokyo; Susumu Fujita, president; TSE Code 4751) and TV Asahi Corporation (Tokyo; Hiroshi Hayakawa, Chairman & CEO) in April 2015, announces the official launch of “AbemaTV,” a 24-hour, free internet TV station with 24 channels, on April 11, 2016.
 
@@ -16,7 +16,7 @@ AbemaTV, Inc., established through a joint investment by CyberAgent, Inc. (Tokyo
 
 ---
 
-## Ginco
+## [Ginco]()
 
 {{< figure class="image main" src="/images/app_ginco.png" >}}
 
@@ -25,9 +25,9 @@ Ginco is the universal asset hub in the crypto ecosystem. Supporting Bitcoin, Bi
 
 ---
 
-## Pairs
+## [Pairs](https://play.google.com/store/apps/details?id=jp.eure.android.pairs)
 
-{{< figure class="image main" src="/images/app_pairs.png" >}}
+{{< figure class="image main" src="/images/app_pairs.png" link="https://play.google.com/store/apps/details?id=jp.eure.android.pairs" >}}
 
 Pairs is a popular dating app in Japan. It was launched on 2014 but it has already become one of the largest dating apps in Japan with more than 450,000 member
 
@@ -36,7 +36,7 @@ Pairs is a popular dating app in Japan. It was launched on 2014 but it has alrea
 
 ## [Spotlight](https://github.com/TakuSemba/Spotlight)
 
-{{< figure class="image main" src="/images/spotlight.png" >}}
+{{< figure class="image main" src="/images/spotlight.png" link="https://github.com/TakuSemba/Spotlight" >}}
 
 This is an Android Library that lights items for tutorials or walk-throughs etc... This library supports custom shapes, and you can skip the current target or skip the all comming targets.
 
@@ -44,7 +44,7 @@ This is an Android Library that lights items for tutorials or walk-throughs etc.
 
 ## [Multi Snap RecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)
 
-{{< figure class="image main" src="/images/multi_snap_recyclerview.png" >}}
+{{< figure class="image main" src="/images/multi_snap_recyclerview.png" link="https://github.com/TakuSemba/MultiSnapRecyclerView" >}}
 
 This is an Android Library for multiple snapping of RecyclerView. MultiSnapRecyclerView easily provides a snapping feature to your recycler view. What this does are clean, neat, and powerful. 
 
@@ -53,7 +53,7 @@ This is an Android Library for multiple snapping of RecyclerView. MultiSnapRecyc
 
 ## [Rtmp Publisher](https://github.com/TakuSemba/RtmpPublisher)
 
-{{< figure class="image main" src="/images/rtmp_publisher.png" >}}
+{{< figure class="image main" src="/images/rtmp_publisher.png" link="https://github.com/TakuSemba/RtmpPublisher" >}}
 
 Rtmp client for publishing on Android and provides simple interfaces to control streams. This also provides a sample server and a client to play streams.
 
