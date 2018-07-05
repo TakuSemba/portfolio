@@ -36,7 +36,7 @@ Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisi
 
 {{< figure class="image main" src="/images/spotlight.png" >}}
 
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
+This is an Android Library that lights items for tutorials or walk-throughs etc... This library supports custom shapes, and you can skip the current target or skip the all comming targets.
 
 ---
 
@@ -44,7 +44,7 @@ Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisi
 
 {{< figure class="image main" src="/images/multi_snap_recyclerview.png" >}}
 
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
+This is an Android Library for multiple snapping of RecyclerView. MultiSnapRecyclerView easily provides a snapping feature to your recycler view. What this does are clean, neat, and powerful. 
 
 
 ---
@@ -53,6 +53,6 @@ Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisi
 
 {{< figure class="image main" src="/images/rtmp_publisher.png" >}}
 
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
+Rtmp client for publishing on Android and provides simple interfaces to control streams. This also provides a sample server and a client to play streams.
 
 
