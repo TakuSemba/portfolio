@@ -4,7 +4,7 @@ date: 2018-07-05T01:55:53+09:00
 draft: false
 ---
 
-{{< figure class="image main" src="/images/pic01.jpg" >}}
+{{< figure class="image main" src="./images/pic01.jpg" >}}
 
 ### Educational Background
 
