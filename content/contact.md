@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2018-07-04T21:35:55+09:00
-draft: true
+draft: false
 ---
 
 <form id="contactform" method="post" action="https://formspree.io/insert.your@mail.adress">

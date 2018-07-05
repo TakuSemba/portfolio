@@ -1,7 +1,7 @@
 ---
 title: "Link"
 date: 2018-07-05T01:06:39+09:00
-draft: true
+draft: false
 ---
 
 {{< figure class="image main" src="/images/pic02.jpg" >}}
