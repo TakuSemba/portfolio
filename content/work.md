@@ -36,7 +36,7 @@ Pairs is a popular dating app in Japan. It was launched on 2014 but it has alrea
 
 ## [Spotlight](https://github.com/TakuSemba/Spotlight)
 
-{{< figure class="image main" src="./images/spotlight.png" link="https://github.com/TakuSemba/Spotlight" >}}
+{{< figure class="image main" src="./images/oss_spotlight.png" link="https://github.com/TakuSemba/Spotlight" >}}
 
 This is an Android Library that lights items for tutorials or walk-throughs etc... This library supports custom shapes, and you can skip the current target or skip the all comming targets.
 
@@ -44,7 +44,7 @@ This is an Android Library that lights items for tutorials or walk-throughs etc.
 
 ## [Multi Snap RecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)
 
-{{< figure class="image main" src="./images/multi_snap_recyclerview.png" link="https://github.com/TakuSemba/MultiSnapRecyclerView" >}}
+{{< figure class="image main" src="./images/oss_multi_snap_recyclerview.png" link="https://github.com/TakuSemba/MultiSnapRecyclerView" >}}
 
 This is an Android Library for multiple snapping of RecyclerView. MultiSnapRecyclerView easily provides a snapping feature to your recycler view. What this does are clean, neat, and powerful. 
 
@@ -53,7 +53,7 @@ This is an Android Library for multiple snapping of RecyclerView. MultiSnapRecyc
 
 ## [Rtmp Publisher](https://github.com/TakuSemba/RtmpPublisher)
 
-{{< figure class="image main" src="./images/rtmp_publisher.png" link="https://github.com/TakuSemba/RtmpPublisher" >}}
+{{< figure class="image main" src="./images/oss_rtmp_publisher.png" link="https://github.com/TakuSemba/RtmpPublisher" >}}
 
 Rtmp client for publishing on Android and provides simple interfaces to control streams. This also provides a sample server and a client to play streams.
 
