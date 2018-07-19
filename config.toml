@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[--><h3>I Love Internet. Im a Android developer.</h3><!--]-->'
+  description = '<!--[--><h3>I Love Internet. Im an Android developer.</h3><!--]-->'
   logo = "fa-code"
 
 [[params.social]]
