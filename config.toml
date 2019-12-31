@@ -48,3 +48,7 @@ theme = "hello-friend-ng"
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "presentations"
+    name       = "Presentations"
+    url        = "presentations/"
