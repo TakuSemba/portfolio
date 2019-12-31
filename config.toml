@@ -22,17 +22,31 @@ theme = "hello-friend-ng"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+  # Social icons
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/takusemba"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/takusemba"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:takusemba.ele@gmail.com"
+
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
-    copyright = ""
+    title = "Taku Semba"
+    subtitle = "TakuSemba's Portfolio"
+    keywords = "portflio"
+    copyright = "TakuSemba"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "home"
       logoHomeLink = "/"
+      logoColor = "#00000000" # transparent cursor
     # or
     #
     # path = "/img/your-example-logo.svg"
