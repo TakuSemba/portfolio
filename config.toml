@@ -16,9 +16,6 @@ theme = "hello-friend-ng"
   keywords = "homepage, blog, science, informatics, development, programming"
   images = [""]
 
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
@@ -41,7 +38,7 @@ theme = "hello-friend-ng"
     subtitle = "TakuSemba's Portfolio"
     keywords = "portflio"
     copyright = "TakuSemba"
-    readOtherPosts = "Read other posts"
+
 
     [languages.en.params.logo]
       logoText = "home"
@@ -58,10 +55,12 @@ theme = "hello-friend-ng"
     identifier = "about"
     name       = "About"
     url        = "about/"
+
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+    
   [[menu.main]]
     identifier = "presentations"
     name       = "Presentations"
