@@ -1,14 +1,308 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend NG</title>
+    <title>Taku Semba</title>
     <link>http://takusemba.com/</link>
-    <description>Recent content on Hello Friend NG</description>
+    <description>Recent content on Taku Semba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>TakuSemba</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 08:49:15 +0900</lastBuildDate>
     
 	<atom:link href="http://takusemba.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>http://takusemba.com/about/</link>
+      <pubDate>Wed, 01 Jan 2020 08:49:15 +0900</pubDate>
+      
+      <guid>http://takusemba.com/about/</guid>
+      <description>some introduction
+Education something about my education
+Carrier something about my carrier
+Skills something about my skills
+OSS something about my OSS projects</description>
+    </item>
+    
+    <item>
+      <title>Deep Understanding of Seek</title>
+      <link>http://takusemba.com/posts/post_15/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customize your RecyclerView with SnapHelper</title>
+      <link>http://takusemba.com/posts/post_16/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set max bitrate on ExoPlayer</title>
+      <link>http://takusemba.com/posts/post_14/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debugging on ExoPlayer</title>
+      <link>http://takusemba.com/posts/post_13/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoders/Encoders on Android</title>
+      <link>http://takusemba.com/posts/post_12/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jetpack Compose @googleI/O report</title>
+      <link>http://takusemba.com/presentations/presentation_13/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Play Multi-key DRM contents on ExoPlayer (part-1)</title>
+      <link>http://takusemba.com/posts/post_10/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Play Multi-key DRM contents on ExoPlayer (part-2)</title>
+      <link>http://takusemba.com/posts/post_11/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protobuf in Kotlin @potatochips#48</title>
+      <link>http://takusemba.com/presentations/presentation_12/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Activity with MVVM @ca.apk#7</title>
+      <link>http://takusemba.com/presentations/presentation_11/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do you really need JvmStatic annotation?</title>
+      <link>http://takusemba.com/posts/post_9/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep Your LiveData Safe when navigating back</title>
+      <link>http://takusemba.com/posts/post_8/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stealing Audio Focus from you</title>
+      <link>http://takusemba.com/posts/post_7/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KotlinConf Report @ca.kt#7</title>
+      <link>http://takusemba.com/presentations/presentation_10/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Request in a QUIC way @shibuya.apk#28</title>
+      <link>http://takusemba.com/presentations/presentation_9/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HLS with Widevine for Android</title>
+      <link>http://takusemba.com/posts/post_6/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Play your own DRM content on ExoPlayer</title>
+      <link>http://takusemba.com/posts/post_5/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make Your Code Clean with Ktlint</title>
+      <link>http://takusemba.com/posts/post_4/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lint for Kotlin @R.kt#3</title>
+      <link>http://takusemba.com/presentations/presentation_8/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto Release @potatochips#48</title>
+      <link>http://takusemba.com/presentations/presentation_7/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media streaming on Android @droidkaigi 2018</title>
+      <link>http://takusemba.com/presentations/presentation_6/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gRPC on Android @DroidconSF Report</title>
+      <link>http://takusemba.com/presentations/presentation_5/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KotlinConf Report @ca.kt#4</title>
+      <link>http://takusemba.com/presentations/presentation_4/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Drawable @Dev Fest Tokyo 2017 Lunch LT</title>
+      <link>http://takusemba.com/presentations/presentation_3/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Understanding of Physics-based Animations In Android</title>
+      <link>http://takusemba.com/posts/post_2/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-Cropper Library &#39;CropMe&#39;</title>
+      <link>http://takusemba.com/posts/post_3/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annotation Processing @potatochips#43</title>
+      <link>http://takusemba.com/presentations/presentation_2/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hollowing Out Views</title>
+      <link>http://takusemba.com/posts/post_1/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customize your RecyclerView with SnapHelper</title>
+      <link>http://takusemba.com/posts/post_0/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/posts/post_0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Java and Kotlin work together @ca.kt#2</title>
+      <link>http://takusemba.com/presentations/presentation_1/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol Buffers @potatochips#40</title>
+      <link>http://takusemba.com/presentations/presentation_0/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0900</pubDate>
+      
+      <guid>http://takusemba.com/presentations/presentation_0/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

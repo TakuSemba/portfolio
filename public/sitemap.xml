@@ -3,11 +3,182 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://takusemba.com/categories/</loc>
+    <loc>http://takusemba.com/about/</loc>
+    <lastmod>2020-01-01T08:49:15+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://takusemba.com/</loc>
+    <lastmod>2020-01-01T08:49:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_15/</loc>
+    <lastmod>2019-12-17T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/</loc>
+    <lastmod>2019-12-17T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_16/</loc>
+    <lastmod>2019-08-05T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_14/</loc>
+    <lastmod>2019-07-21T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_13/</loc>
+    <lastmod>2019-07-14T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_12/</loc>
+    <lastmod>2019-07-05T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_13/</loc>
+    <lastmod>2019-06-21T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/</loc>
+    <lastmod>2019-06-21T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_10/</loc>
+    <lastmod>2019-04-15T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_11/</loc>
+    <lastmod>2019-04-15T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_12/</loc>
+    <lastmod>2019-03-27T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_11/</loc>
+    <lastmod>2019-03-26T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_9/</loc>
+    <lastmod>2019-03-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_8/</loc>
+    <lastmod>2019-01-30T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_7/</loc>
+    <lastmod>2018-10-19T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_10/</loc>
+    <lastmod>2018-10-15T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_9/</loc>
+    <lastmod>2018-09-27T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_6/</loc>
+    <lastmod>2018-06-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_5/</loc>
+    <lastmod>2018-04-14T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_4/</loc>
+    <lastmod>2018-03-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_8/</loc>
+    <lastmod>2018-03-15T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_7/</loc>
+    <lastmod>2018-02-17T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_6/</loc>
+    <lastmod>2018-02-08T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_5/</loc>
+    <lastmod>2017-11-20T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_4/</loc>
+    <lastmod>2017-11-17T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_3/</loc>
+    <lastmod>2017-10-08T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_2/</loc>
+    <lastmod>2017-09-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_3/</loc>
+    <lastmod>2017-09-16T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_2/</loc>
+    <lastmod>2017-08-25T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_1/</loc>
+    <lastmod>2017-08-08T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/posts/post_0/</loc>
+    <lastmod>2017-08-05T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_1/</loc>
+    <lastmod>2017-07-19T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/presentations/presentation_0/</loc>
+    <lastmod>2017-05-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://takusemba.com/categories/</loc>
   </url>
   
   <url>

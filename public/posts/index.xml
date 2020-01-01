@@ -1,0 +1,183 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Taku Semba</title>
+        <link>http://takusemba.com/posts/</link>
+        <description>Recent content in Posts on Taku Semba</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>TakuSemba</copyright>
+        <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0900</lastBuildDate>
+        <atom:link href="http://takusemba.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Deep Understanding of Seek</title>
+            <link>http://takusemba.com/posts/post_15/</link>
+            <pubDate>Tue, 17 Dec 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_15/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Customize your RecyclerView with SnapHelper</title>
+            <link>http://takusemba.com/posts/post_16/</link>
+            <pubDate>Mon, 05 Aug 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_16/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Set max bitrate on ExoPlayer</title>
+            <link>http://takusemba.com/posts/post_14/</link>
+            <pubDate>Sun, 21 Jul 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_14/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Debugging on ExoPlayer</title>
+            <link>http://takusemba.com/posts/post_13/</link>
+            <pubDate>Sun, 14 Jul 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_13/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Decoders/Encoders on Android</title>
+            <link>http://takusemba.com/posts/post_12/</link>
+            <pubDate>Fri, 05 Jul 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_12/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Play Multi-key DRM contents on ExoPlayer (part-1)</title>
+            <link>http://takusemba.com/posts/post_10/</link>
+            <pubDate>Mon, 15 Apr 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_10/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Play Multi-key DRM contents on ExoPlayer (part-2)</title>
+            <link>http://takusemba.com/posts/post_11/</link>
+            <pubDate>Mon, 15 Apr 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_11/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Do you really need JvmStatic annotation?</title>
+            <link>http://takusemba.com/posts/post_9/</link>
+            <pubDate>Fri, 01 Mar 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_9/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Keep Your LiveData Safe when navigating back</title>
+            <link>http://takusemba.com/posts/post_8/</link>
+            <pubDate>Wed, 30 Jan 2019 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_8/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Stealing Audio Focus from you</title>
+            <link>http://takusemba.com/posts/post_7/</link>
+            <pubDate>Fri, 19 Oct 2018 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_7/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>HLS with Widevine for Android</title>
+            <link>http://takusemba.com/posts/post_6/</link>
+            <pubDate>Fri, 01 Jun 2018 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_6/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Play your own DRM content on ExoPlayer</title>
+            <link>http://takusemba.com/posts/post_5/</link>
+            <pubDate>Sat, 14 Apr 2018 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_5/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Make Your Code Clean with Ktlint</title>
+            <link>http://takusemba.com/posts/post_4/</link>
+            <pubDate>Fri, 16 Mar 2018 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_4/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Deep Understanding of Physics-based Animations In Android</title>
+            <link>http://takusemba.com/posts/post_2/</link>
+            <pubDate>Sat, 16 Sep 2017 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_2/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Image-Cropper Library &#39;CropMe&#39;</title>
+            <link>http://takusemba.com/posts/post_3/</link>
+            <pubDate>Sat, 16 Sep 2017 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_3/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Hollowing Out Views</title>
+            <link>http://takusemba.com/posts/post_1/</link>
+            <pubDate>Tue, 08 Aug 2017 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_1/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Customize your RecyclerView with SnapHelper</title>
+            <link>http://takusemba.com/posts/post_0/</link>
+            <pubDate>Sat, 05 Aug 2017 00:00:00 +0900</pubDate>
+            
+            <guid>http://takusemba.com/posts/post_0/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
