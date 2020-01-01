@@ -20,7 +20,7 @@ Ginco is the universal asset hub in the crypto ecosystem. Supporting Bitcoin, Bi
 
 **Sept 2015 ~ Mar 2016 [Pairs](https://eure.jp)**
 
-Pairs is one of the popular dating app in Japan. It was launched on 2014 but it has already become one of the largest dating apps in Japan with more than 450,000 member
+Pairs is one of the popular dating app in Japan. It was launched on 2014 but it has already become one of the largest dating apps in Japan with more than 450,000 members.
 
 ## OSS
 
