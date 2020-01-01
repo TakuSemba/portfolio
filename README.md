@@ -15,7 +15,7 @@ hugo
 
 ### Locally
 
-`hugo server` will let you check the site locally with hot loading.
+`hugo server` will help you check the site locally with hot loading.
 
 ```sh
 hugo server
