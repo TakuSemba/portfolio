@@ -2,139 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations on Taku Semba</title>
-    <link>http://takusemba.com/presentations/</link>
+    <link>/presentations/</link>
     <description>Recent content in Presentations on Taku Semba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>TakuSemba</copyright>
     <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="http://takusemba.com/presentations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/presentations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jetpack Compose @googleI/O report</title>
-      <link>http://takusemba.com/presentations/presentation_13/</link>
+      <link>/presentations/presentation_13/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_13/</guid>
+      <guid>/presentations/presentation_13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protobuf in Kotlin @potatochips#48</title>
-      <link>http://takusemba.com/presentations/presentation_12/</link>
+      <link>/presentations/presentation_12/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_12/</guid>
+      <guid>/presentations/presentation_12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Activity with MVVM @ca.apk#7</title>
-      <link>http://takusemba.com/presentations/presentation_11/</link>
+      <link>/presentations/presentation_11/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_11/</guid>
+      <guid>/presentations/presentation_11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KotlinConf Report @ca.kt#7</title>
-      <link>http://takusemba.com/presentations/presentation_10/</link>
+      <link>/presentations/presentation_10/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_10/</guid>
+      <guid>/presentations/presentation_10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Request in a QUIC way @shibuya.apk#28</title>
-      <link>http://takusemba.com/presentations/presentation_9/</link>
+      <link>/presentations/presentation_9/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_9/</guid>
+      <guid>/presentations/presentation_9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lint for Kotlin @R.kt#3</title>
-      <link>http://takusemba.com/presentations/presentation_8/</link>
+      <link>/presentations/presentation_8/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_8/</guid>
+      <guid>/presentations/presentation_8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Auto Release @potatochips#48</title>
-      <link>http://takusemba.com/presentations/presentation_7/</link>
+      <link>/presentations/presentation_7/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_7/</guid>
+      <guid>/presentations/presentation_7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media streaming on Android @droidkaigi 2018</title>
-      <link>http://takusemba.com/presentations/presentation_6/</link>
+      <link>/presentations/presentation_6/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_6/</guid>
+      <guid>/presentations/presentation_6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gRPC on Android @DroidconSF Report</title>
-      <link>http://takusemba.com/presentations/presentation_5/</link>
+      <link>/presentations/presentation_5/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_5/</guid>
+      <guid>/presentations/presentation_5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KotlinConf Report @ca.kt#4</title>
-      <link>http://takusemba.com/presentations/presentation_4/</link>
+      <link>/presentations/presentation_4/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_4/</guid>
+      <guid>/presentations/presentation_4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vector Drawable @Dev Fest Tokyo 2017 Lunch LT</title>
-      <link>http://takusemba.com/presentations/presentation_3/</link>
+      <link>/presentations/presentation_3/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_3/</guid>
+      <guid>/presentations/presentation_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Annotation Processing @potatochips#43</title>
-      <link>http://takusemba.com/presentations/presentation_2/</link>
+      <link>/presentations/presentation_2/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_2/</guid>
+      <guid>/presentations/presentation_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Java and Kotlin work together @ca.kt#2</title>
-      <link>http://takusemba.com/presentations/presentation_1/</link>
+      <link>/presentations/presentation_1/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_1/</guid>
+      <guid>/presentations/presentation_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocol Buffers @potatochips#40</title>
-      <link>http://takusemba.com/presentations/presentation_0/</link>
+      <link>/presentations/presentation_0/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0900</pubDate>
       
-      <guid>http://takusemba.com/presentations/presentation_0/</guid>
+      <guid>/presentations/presentation_0/</guid>
       <description></description>
     </item>
     
