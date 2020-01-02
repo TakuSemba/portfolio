@@ -22,6 +22,12 @@ Ginco is the universal asset hub in the crypto ecosystem. Supporting Bitcoin, Bi
 
 Pairs is one of the popular dating app in Japan. It was launched on 2014 but it has already become one of the largest dating apps in Japan with more than 450,000 members.
 
+## Education
+
+**Apr 2012 ~ Mar 2017 Kobe University** Electrical Engineering
+
+**Sept 2015 ~ June 2016 University of Washington** Electrical Engineering
+
 ## OSS
 
 **[Spotlight](https://github.com/TakuSemba/Spotlight) 2.4k stars**
@@ -40,10 +46,4 @@ This is an Android library for cropping images. Move images smoothly, and crop i
 
 Sample App with Jetpack components(LiveData, Navigation, ViewModel) + MVVM + coroutine + single activity
 
-## Education
-
-**Apr 2012 ~ Mar 2017 Kobe University** Electrical Engineering
-
-**Sept 2015 ~ June 2016 University of Washington** Electrical Engineering
-
-
+see other [projects](https://github.com/TakuSemba)
