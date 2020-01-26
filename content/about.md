@@ -47,3 +47,9 @@ This is an Android library for cropping images. Move images smoothly, and crop i
 Sample App with Jetpack components(LiveData, Navigation, ViewModel) + MVVM + coroutine + single activity
 
 see other [projects](https://github.com/TakuSemba)
+
+## Book
+
+**[みんなのKotlin](https://www.amazon.co.jp/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AEKotlin-%E7%8F%BE%E5%A0%B4%E3%81%A7%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%9C%80%E6%96%B0%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6-%E6%84%9B%E6%BE%A4-%E8%90%8C/dp/4297109174)**
+
+A book for advanced usage of Kotlin for Android, Server, MPP, etc.
