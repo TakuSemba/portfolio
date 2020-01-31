@@ -6,8 +6,18 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>TakuSemba</copyright>
-        <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0900</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Thinking About Initial Bitrate</title>
+            <link>/posts/post_16/</link>
+            <pubDate>Thu, 30 Jan 2020 00:00:00 +0900</pubDate>
+            
+            <guid>/posts/post_16/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
         
         <item>
             <title>Deep Understanding of Seek</title>
@@ -15,16 +25,6 @@
             <pubDate>Tue, 17 Dec 2019 00:00:00 +0900</pubDate>
             
             <guid>/posts/post_15/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>Customize your RecyclerView with SnapHelper</title>
-            <link>/posts/post_16/</link>
-            <pubDate>Mon, 05 Aug 2019 00:00:00 +0900</pubDate>
-            
-            <guid>/posts/post_16/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
