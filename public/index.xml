@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>TakuSemba</copyright>
-    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 08:49:15 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Customize &amp; Debug ExoPlayer</title>
+      <link>/presentations/presentation_14/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0900</pubDate>
+      
+      <guid>/presentations/presentation_14/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Caption Overview</title>
@@ -40,7 +49,7 @@
 Carrier Jan 2017 ~ current AbemaTV
 AbemaTV is a new video streaming service that airs TV show 24 hours straight with variety of channels.
 Mar 2018 ~ Aug 2019 Ginco
-Ginco is the universal asset hub in the crypto ecosystem. Supporting Bitcoin, BitcoinCash, LTC, ETH and ERC20s.</description>
+Ginco is the universal asset hub in the crypto ecosystem and provides a wallet app. Supporting Bitcoin, BitcoinCash, LTC, ETH and ERC20s.</description>
     </item>
     
     <item>

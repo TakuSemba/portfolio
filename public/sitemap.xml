@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/presentations/presentation_14/</loc>
+    <lastmod>2020-04-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/presentations/</loc>
+    <lastmod>2020-04-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/post_17/</loc>
     <lastmod>2020-03-10T00:00:00+09:00</lastmod>
   </url>
@@ -13,17 +23,17 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-03-10T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/post_16/</loc>
     <lastmod>2020-01-30T00:00:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
+    <lastmod>2020-01-01T08:49:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-01-01T08:49:15+09:00</lastmod>
   </url>
   
@@ -49,11 +59,6 @@
   
   <url>
     <loc>/presentations/presentation_13/</loc>
-    <lastmod>2019-06-21T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/presentations/</loc>
     <lastmod>2019-06-21T00:00:00+09:00</lastmod>
   </url>
   
