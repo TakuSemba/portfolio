@@ -8,7 +8,7 @@ draft: false
 Hi, my name is Taku Semba.
 I mainly work on Android, and strong interested in Media Streaming, Crypto Currency, Kubernetes/Docker, Kotlin Multi Platform.
 
-## Carrier
+## Career
 
 **Jan 2017 ~ current [AbemaTV](https://play.google.com/store/apps/details?id=tv.abema)**
 
