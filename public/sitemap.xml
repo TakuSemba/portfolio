@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-04-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/post_17/</loc>
     <lastmod>2020-03-10T00:00:00+09:00</lastmod>
   </url>
@@ -29,11 +34,6 @@
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2020-01-01T08:49:15+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-01-01T08:49:15+09:00</lastmod>
   </url>
   
